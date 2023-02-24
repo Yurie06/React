@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+     
+        "title": "Cat 1",
+        "image": "pexels-evg-kowalievska-1170986.jpg",
+        "text": "They Have A Ton Of Muscles In Their Ears. Minskin Cat The Minskin is a relatively new breed of cat that was created by crossing the Sphynx and the Munchkin: two breeds that are already unique in their own way"
+    },
+    {
+        "id": 2,
+        "title": "Cat 2",
+        "image": "",
+        "text": "They Have A Ton Of Muscles In Their Ears"
+    },
+    {
+        "id": 3,
+        "title": "Cat 3",
+        "image": "",
+       
+        "text": "They Have A Ton Of Muscles In Their Ears"
+    },
+
+    {
+        "id": 4,
+        "title": "Cat 4",
+        "image": "",
+        "text": "They Have A Ton Of Muscles In Their Ears"
+    },
+    {
+        "id": 5,
+        "title": "Cat 5",
+         "image": "",
+        "text": "They Have A Ton Of Muscles In Their Ears"
+    },
+    {
+        "id": 6,
+        "title": "Cat 6",
+        "image": "",
+        "text": "They Have A Ton Of Muscles In Their Ears"
+    },
+
+    {
+        "id": 7,
+        "title": "Cat 7",
+        "image": "",
+        "text": "They Have A Ton Of Muscles In Their Ears"
+    }
+    
+]
